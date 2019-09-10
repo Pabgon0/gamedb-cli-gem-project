@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+
+require_relative '../lib/game_db'
+
+GameDb::CLI.new.call

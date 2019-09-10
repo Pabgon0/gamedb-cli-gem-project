@@ -1,0 +1,3 @@
+class GameDb::Gamedb
+
+end
