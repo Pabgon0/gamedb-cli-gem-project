@@ -1,16 +1,10 @@
 # GameDb
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/game_db`. To experiment with that code, run `bin/console` for an interactive prompt.
-
-TODO: Delete this and the text above, and describe your gem
+This Ruby Gem allows a user to use a CLI view a list of Games Systems and shows basic information about the systems.
 
 ## Installation
 
-Add this line to your application's Gemfile:
-
-```ruby
-gem 'game_db'
-```
+    $ gem game_db
 
 And then execute:
 
@@ -22,7 +16,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Type  $ gamedb and follow the prompts.
 
 ## Development
 
