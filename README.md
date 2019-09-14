@@ -16,7 +16,7 @@ Or install it yourself as:
 
 ## Usage
 
-Type  $ gamedb and follow the prompts.
+Type  $ ruby gamedb and follow the prompts.
 
 ## Development
 
