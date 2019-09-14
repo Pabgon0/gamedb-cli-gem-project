@@ -53,7 +53,4 @@ class GameDb::CLI
             pick_another
         end
     end
-
-    # take user input (a number), than provide the data for their selection, than ask if user wishes to pick another with a if else
-    #statment and repeat or end program. Than finish up readme and any other project requirements.
 end
