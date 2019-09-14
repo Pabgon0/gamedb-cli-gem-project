@@ -15,4 +15,12 @@ class GameDb::Game
         @@all
     end
 
+    def self.find(user_input)
+        self.all[user_input-1]
+    end
+
+    def self.clear
+        all.clear
+    end
+
 end
